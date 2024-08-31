@@ -3,6 +3,11 @@
 * Javascript
 * Node.js (Para baixar o pacote prompt-sync para interação com usuário)
 
+```
+Para rodar o projeto:
+
+npm install 
+```
 
 #### Exercício 3
 
