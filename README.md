@@ -1,3 +1,8 @@
+#### Tecnologias Utilizada
+
+* Javascript
+* Node.js (Para baixar o pacote prompt-sync para interação com usuário)
+
 
 #### Exercício 3
 
